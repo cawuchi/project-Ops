@@ -3,6 +3,6 @@ node {
   sh 'echo hello'
   }
   stage('stage 2'){
-   sh 'build-scripts install'
+   sh 'zsh build-scripts install'
   }
 }
