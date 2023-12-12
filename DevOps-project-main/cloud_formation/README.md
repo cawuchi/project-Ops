@@ -48,7 +48,7 @@ To get started with this stack, you will need to have the following items setup:
 
 1. Software dependencies installed
     1. The current long term support version of node (18.12.0)
-    1. aws-cdk globally installed with `npm install -g aws-cdk@2.81.0`
+    1. aws-cdk globally installed with `npm install -g aws-cdk@2.83.1`
 1. An AWS account for development. You won't get charged unless you do something really big. ([instructions](https://aws.amazon.com/resources/create-account/))
 1. An AWS credentials set up locally.
     1. In AWS console search for "IAM" on the top search bar.
