@@ -1,0 +1,8 @@
+node {
+  stage('Stage 1'){
+  'echo hello'
+  }
+  stage('stage 2'){
+    'echo hi'
+  }
+}
